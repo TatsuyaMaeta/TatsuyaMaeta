@@ -39,3 +39,7 @@ Here are some ideas to get you started:
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
+
+
+![](https://raw.githubusercontent.com/ユーザー名/リポジトリ名/output/github-contribution-grid-snake.svg)
+

@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://raw.githubusercontent.com/TatsuyaMaeta/TatsuyaMaeta/output/github-contribution-grid-snake.svg)
+
 <!--
 **TatsuyaMaeta/TatsuyaMaeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,5 +43,5 @@ Here are some ideas to get you started:
 ![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
 
 
-![](https://raw.githubusercontent.com/ユーザー名/リポジトリ名/output/github-contribution-grid-snake.svg)
+
 

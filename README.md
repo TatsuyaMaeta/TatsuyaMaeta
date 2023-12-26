@@ -26,9 +26,16 @@ Here are some ideas to get you started:
     <img height="20" src="https://qiita-badge.apiapi.app/s/TatsuyaMaeta/posts.svg" />
   </a>
   <a href="http://qiita.com/TatsuyaMaeta">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/TatsuyaMaeta/contributions.svg" />
-  </a>
-  <a href="https://zenn.dev/TatsuyaMaeta">
-    <img height="20" src="https://badgen.org/img/zenn/TatsuyaMaeta/articles?style=plastic" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/at_mae084/contributions.svg" />
   </a>
 </p>
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TatsuyaMaeta&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TatsuyaMaeta&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TatsuyaMaeta&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TatsuyaMaeta&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TatsuyaMaeta&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)

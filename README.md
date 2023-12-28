@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <img height="20" src="https://img.shields.io/github/followers/TatsuyaMaeta?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/TatsuyaMaeta">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/TatsuyaMaeta/posts.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/tat_mae084/posts.svg" />
   </a>
   <a href="http://qiita.com/TatsuyaMaeta">
     <img height="20" src="https://qiita-badge.apiapi.app/s/at_mae084/contributions.svg" />
